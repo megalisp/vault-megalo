@@ -10,7 +10,7 @@
     "postProcess": true,
     "displayProgress": true,
     "inlineHTML": false,
-    "exportPath": "/var/room/omegalisp/.noted/MEGALO/docs",
+    "exportPath": "/var/room/omegalisp/.noted/.vaults-exports/megalo",
     "filesToExport": [
       "all"
     ],
