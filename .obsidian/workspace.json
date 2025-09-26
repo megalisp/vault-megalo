@@ -11,14 +11,10 @@
             "id": "fa3b3dfbf7c283f4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -157,40 +153,42 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "webpage-html-export:Export as HTML": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "webpage-html-export:Export as HTML": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "fa3b3dfbf7c283f4",
   "lastOpenFiles": [
-    "index.canvas",
     "README.md",
-    "docs/docs/site-lib/fonts/4bb6ac751d1c5478ff3a.woff2",
-    "docs/docs/site-lib/fonts",
-    "docs/site-lib/rss.xml",
-    "docs/site-lib/search-index.json",
-    "docs/site-lib",
+    "LEGAL.txt",
+    "index.canvas",
+    "LICENSE/CC-BY-ND.txt",
+    "LICENSE",
     "docs/docs/site-lib/scripts/graph-render-worker.js",
-    "docs/docs/site-lib/scripts",
-    "docs/docs/_res_/twemoji-1f9e0.svg",
-    "docs/docs/_res_",
     "docs/docs/site-lib/html/file-tree-content-content.html",
+    "docs/docs/site-lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "docs/docs/_res_/twemoji-1f9e0.svg",
+    "docs/docs/site-lib/scripts",
     "docs/docs/site-lib/html",
+    "docs/docs/site-lib/fonts",
+    "docs/site-lib/search-index.json",
+    "_res_/twemoji-1F9E0.svg",
+    "vault-megalo/index.canvas",
+    "vault-megalo/docs/docs/_res_/twemoji-1f9e0.svg",
+    "vault-megalo/_res_/twemoji-1F9E0.svg",
+    "vault-megalo/README.md",
     "docs/docs/site-lib/media/favicon.png",
     "docs/docs/site-lib/media/6155340132a851f6089e.svg",
     "docs/docs/site-lib/media/2308ab1944a6bfa5c5b8.svg",
-    "_res_/twemoji-1F9E0.svg",
     "docs/site-lib/media/favicon.png",
     "docs/site-lib/media/6155340132a851f6089e.svg",
     "docs/site-lib/media/2308ab1944a6bfa5c5b8.svg",
-    "docs/_res_/twemoji-1f9e0.svg",
-    "_res_/twemoji-brain.svg",
     "Untitled.canvas",
     "MAIN.canvas"
   ]
